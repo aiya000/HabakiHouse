@@ -3,7 +3,7 @@
 下記のいずれか一つのunitypackageをインポートします。
 
 [本商品](ここにBoothのURL)は[「Coquelicotz shelf - VRChat向け家具セット(１)」](https://coquelicotz.booth.pm/items/1276329)様・
-[「Coquelicotz shelf - VRChat向け家具セット(２)」](https://booth.pm/ja/items/1573249)様および
+[「Coquelicotz shelf - VRChat向け家具セット(２)」](https://coquelicotz.booth.pm/items/1573249)様および
 [「Coquelicotz shelf - VRChat向け家具セット(３)」](https://coquelicotz.booth.pm/items/1680527)様に依存しているため、
 導入したいワールドの状況に応じて、unitypackageを選んでください。
 
@@ -39,15 +39,17 @@
 また詳しくは、各作成物は下記に分類され、それぞれ上記条項よりもゆるく再配布・再利用が可能なものがあります。
 本商品が他者さまの著作物を、他者さまのライセンスに則り流用している都合上、複雑になっておりますが、ぜひご利用ください✨
 
-### ## `Assets\Models\Coq_funi02`以下のファイルに関して
+### ## `Assets\Models\Coq_funi0*`以下のファイルに関して
 
-`Assets\Models\Coq_funi02`以下のファイルは、下記商品のものです。
+`Assets\Models\Coq_funi02`・`Assets\Models\Coq_funi02`および`Assets\Models\Coq_funi03`以下のファイルは、下記商品のものです。
 
-- [Coquelicotz shelf - VRChat向け家具セット(２)](https://booth.pm/ja/items/1573249)
+- [「Coquelicotz shelf - VRChat向け家具セット(１)」](https://coquelicotz.booth.pm/items/1276329)
+- [「Coquelicotz shelf - VRChat向け家具セット(２)」](https://coquelicotz.booth.pm/items/1573249)
+- [「Coquelicotz shelf - VRChat向け家具セット(３)」](https://coquelicotz.booth.pm/items/1680527)
 
-つきまして`Assets\Models\Coq_funi02`以下のファイルに関しては、下記の条項が適用されます。
+つきまして当該ファイルに関しては、下記の条項が適用されます。
 
-#### ### テクスチャー（モデル以外）について -  `Assets\Models\Coq_funi02`以下のファイルに関して
+#### ### テクスチャー（モデル以外）について -  `Assets\Models\Coq_funi0*`以下のファイルに関して
 
 - [Pixabay License](https://pixabay.com/ja/service/license/)
     - 商用利用可能
@@ -61,7 +63,7 @@
 
 - [CC0 Textures](https://cc0textures.com/)
 
-#### ### モデルについて -  `Assets\Models\Coq_funi02`以下のファイルに関して
+#### ### モデルについて -  `Assets\Models\Coq_funi0*`以下のファイルに関して
 
 - [CC0](https://creativecommons.jp/sciencecommons/aboutcc0/)
 
