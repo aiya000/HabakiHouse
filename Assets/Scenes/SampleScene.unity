@@ -437,6 +437,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: HabakiRoom
       objectReference: {fileID: 0}
+    - target: {fileID: 1488580718201728139, guid: 3738f8323bcf4454db69691d64890132,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 1488580718201728139, guid: 3738f8323bcf4454db69691d64890132,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3738f8323bcf4454db69691d64890132, type: 3}
 --- !u!1001 &774030844
