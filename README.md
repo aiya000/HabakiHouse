@@ -2,7 +2,10 @@
 
 下記のいずれか一つのunitypackageをインポートします。
 
-[本商品](ここにBoothのURL)は[「Coquelicotz shelf - VRChat向け家具セット(１)」](https://coquelicotz.booth.pm/items/1276329)様および[「Coquelicotz shelf - VRChat向け家具セット(２)」](https://booth.pm/ja/items/1573249)様に依存しているため、導入したいワールドの状況に応じて、選んでください。
+[本商品](ここにBoothのURL)は[「Coquelicotz shelf - VRChat向け家具セット(１)」](https://coquelicotz.booth.pm/items/1276329)様・
+[「Coquelicotz shelf - VRChat向け家具セット(２)」](https://booth.pm/ja/items/1573249)様および
+[「Coquelicotz shelf - VRChat向け家具セット(３)」](https://coquelicotz.booth.pm/items/1680527)様に依存しているため、
+導入したいワールドの状況に応じて、unitypackageを選んでください。
 
 - `HabakiRoom.unitypackage`
     - 内装なし
