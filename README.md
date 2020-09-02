@@ -2,23 +2,29 @@
 
 下記のいずれか一つのunitypackageをインポートします。
 
-[本商品](ここにBoothのURL)は[「Coquelicotz shelf - VRChat向け家具セット(１)」](https://coquelicotz.booth.pm/items/1276329)様・
-[「Coquelicotz shelf - VRChat向け家具セット(２)」](https://coquelicotz.booth.pm/items/1573249)様および
-[「Coquelicotz shelf - VRChat向け家具セット(３)」](https://coquelicotz.booth.pm/items/1680527)様に依存しているため、
-導入したいワールドの状況に応じて、unitypackageを選んでください。
+[本商品](ここにBoothのURL)は
+
+- [「Coquelicotz shelf - VRChat向け家具セット(１)」](https://coquelicotz.booth.pm/items/1276329)様
+- [「Coquelicotz shelf - VRChat向け家具セット(２)」](https://coquelicotz.booth.pm/items/1573249)様
+- [「Coquelicotz shelf - VRChat向け家具セット(３)」](https://coquelicotz.booth.pm/items/1680527)様
+
+に依存しているため、導入したいワールドの状況に応じて、下記unitypackageを選んでください。
 
 - `HabakiRoom.unitypackage`
     - 内装なし
     - 必要最小限の依存物を含む
 - `HabakiRoom-without-any-dependencies.unitypackage`
     - 内装なし
-    - 必要な依存物を含んでいない（自分で上記の依存物をインポートする場合 or 既にインポートしている場合――に使ってください）
+    - 必要な依存物を含んでいない  
+      （自分で上記の依存物をインポートする場合 or 既にインポートしている場合――に使ってください）
 - `HabakiRoom-rich.unitypackage`
     - 内装あり
     - 必要最小限の依存物を含む（`HabakiRoom.unitypackage`より依存物が多い）
 - `HabakiRoom-rich-without-any-dependencies.unitypackage`
     - 内装あり
     - 必要な依存物を含んでいない（〃）
+
+ただし「必要最小限の依存物を含む」タイプを選んだ場合でも、その後「VRChat向け家具セット」をご自身で導入していただけます。
 
 ## # ライセンス
 
@@ -29,8 +35,8 @@
 - R-18・R-18Gの利用可能
 - 自作発言等はお控えください
 - 再配布可能
-    - ただし本readmの最下部にある「MITライセンス本文」を、文の変更なしに、配布物に含んでください
-        - 本unitypackageをそのまま再配布する場合は、そのまま再配布していただければ大丈夫です！
+    - ただし本readmの最下部にある「MITライセンス本文」を、文の変更なしに、配布物に含んでください  
+      （本unitypackageをそのまま再配布する場合は、そのまま再配布していただければ大丈夫です！）
     - また再配布する際には、このページへのリンクや紹介等を付けてくださるとうれしいです☺️
 
 上記条項は、本商品（ソースコード含む）全てに適用されます。
