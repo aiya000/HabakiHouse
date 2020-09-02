@@ -1,1 +1,1 @@
-Please see [here](./Assets/galaxy-sixth-sensey/HabakiRoom/README.md).
+Please see [README.md](./README.md).
