@@ -2,7 +2,7 @@
 
 下記のいずれか一つのunitypackageをインポートします。
 
-[本商品](ここにBoothのURL)は
+[本商品](https://aiya000.booth.pm/items/2346700)は
 
 - [「Coquelicotz shelf - VRChat向け家具セット(１)」](https://coquelicotz.booth.pm/items/1276329)様
 - [「Coquelicotz shelf - VRChat向け家具セット(２)」](https://coquelicotz.booth.pm/items/1573249)様
