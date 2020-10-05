@@ -1,30 +1,18 @@
+# [【無料・Unity】巾木ハウス【VRChat想定・きれいな木製の家】](https://aiya000.booth.pm/items/2346700)
 ## # 使い方
 
 下記のいずれか一つのunitypackageをインポートします。
 
-[本商品](https://aiya000.booth.pm/items/2346700)は
+- `HabakiHouse.unitypackage`
+    - 内装なし
+- `HabakiHouse-rich.unitypackage`
+    - 内装あり
+
+本商品はCC0により、下記パッケージの一部を含みます。
 
 - [「Coquelicotz shelf - VRChat向け家具セット(１)」](https://coquelicotz.booth.pm/items/1276329)様
 - [「Coquelicotz shelf - VRChat向け家具セット(２)」](https://coquelicotz.booth.pm/items/1573249)様
 - [「Coquelicotz shelf - VRChat向け家具セット(３)」](https://coquelicotz.booth.pm/items/1680527)様
-
-に依存しているため、導入したいワールドの状況に応じて、下記unitypackageを選んでください。
-
-- `HabakiHouse.unitypackage`
-    - 内装なし
-    - 必要最小限の依存物を含む
-- `HabakiHouse-without-any-dependencies.unitypackage`
-    - 内装なし
-    - 必要な依存物を含んでいない  
-      （自分で上記の依存物をインポートする場合 or 既にインポートしている場合――に使ってください）
-- `HabakiHouse-rich.unitypackage`
-    - 内装あり
-    - 必要最小限の依存物を含む（`HabakiHouse.unitypackage`より依存物が多い）
-- `HabakiHouse-rich-without-any-dependencies.unitypackage`
-    - 内装あり
-    - 必要な依存物を含んでいない（〃）
-
-ただし「必要最小限の依存物を含む」タイプを選んだ場合でも、その後「VRChat向け家具セット」をご自身で導入していただけます。
 
 ## # ライセンス
 
