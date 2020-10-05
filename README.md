@@ -10,17 +10,17 @@
 
 に依存しているため、導入したいワールドの状況に応じて、下記unitypackageを選んでください。
 
-- `HabakiRoom.unitypackage`
+- `HabakiHouse.unitypackage`
     - 内装なし
     - 必要最小限の依存物を含む
-- `HabakiRoom-without-any-dependencies.unitypackage`
+- `HabakiHouse-without-any-dependencies.unitypackage`
     - 内装なし
     - 必要な依存物を含んでいない  
       （自分で上記の依存物をインポートする場合 or 既にインポートしている場合――に使ってください）
-- `HabakiRoom-rich.unitypackage`
+- `HabakiHouse-rich.unitypackage`
     - 内装あり
-    - 必要最小限の依存物を含む（`HabakiRoom.unitypackage`より依存物が多い）
-- `HabakiRoom-rich-without-any-dependencies.unitypackage`
+    - 必要最小限の依存物を含む（`HabakiHouse.unitypackage`より依存物が多い）
+- `HabakiHouse-rich-without-any-dependencies.unitypackage`
     - 内装あり
     - 必要な依存物を含んでいない（〃）
 
