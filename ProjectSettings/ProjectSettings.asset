@@ -544,13 +544,14 @@ PlayerSettings:
   webGLThreadsSupport: 0
   scriptingDefineSymbols:
     1: UDON;VRC_SDK_VRCSDK3
+    7: UDON;VRC_SDK_VRCSDK3
   platformArchitecture: {}
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
   managedStrippingLevel: {}
   incrementalIl2cppBuild: {}
   allowUnsafeCode: 0
-  additionalIl2CppArgs: 
+  additionalIl2CppArgs: --linker-flags="-long-plt"
   scriptingRuntimeVersion: 1
   apiCompatibilityLevelPerPlatform:
     Standalone: 3
